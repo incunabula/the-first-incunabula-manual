@@ -1,0 +1,3 @@
+#{classnames => "eiderdown-todo",scope => review,tag => "todo"}.
+#{classnames => "eiderdown-comment",scope => review,tag => "comment"}.
+#{classnames => "eiderdown-quote",scope => html,tag => "quote"}.
