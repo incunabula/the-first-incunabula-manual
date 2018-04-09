@@ -16,5 +16,8 @@ Login as `admin`:
 The menu will now change and add an `admin` button, click on it:
 <img src='/books/the-first-incunabula-manual/images/front-page-logged-in.png' alt='Front Page Logged In'>
 
-Create the users of the site. If you are going to be an *author* or *reviewer* in your own right create an account for yourself here to use when doing that jo
+Create the users of the site. If you are going to be an *author* or *reviewer* in your own right create an account for yourself here to use when doing that job. The *admin* sign-in should only be used for special administrative tasks:
+<img src='/books/the-first-incunabula-manual/images/create-user.png' alt='Create User'>
+
+You will notice that people are not created as *authors* or *reviewers*. An *author* is just someone who writes a book and a reviewer is just so
 
