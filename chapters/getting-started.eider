@@ -53,4 +53,6 @@ Lets look at each one in turn.
 
 You can create new chapters and re-organise them from this page. Notice how the list of chapters contains a status column that is currently empty. Later on we will look at handing a chapter over to a reviewer to look at. When you do that the chapter will be locked - and its status will change.
 
-Clicking on a chapter will open the editor
+Clicking on a chapter will open the editor:
+
+<img src='/books/the-first-incunabula-manual/images/editing-a-chapter.png' alt='Editing A Chapter'>
