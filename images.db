@@ -3,3 +3,8 @@
   image_slug => <<"front-page">>,
   original_name => <<"Incunabula-front-page.png">>,
   title => <<"Front Page">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-307856-806856-2: PNG image data, 1806 x 116, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"front-page-logged-in">>,
+  original_name => <<"Incunabula-logged-in.png">>,
+  title => <<"Front Page Logged In">>}.
