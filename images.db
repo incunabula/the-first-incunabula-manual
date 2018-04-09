@@ -13,3 +13,8 @@
   image_slug => <<"create-user">>,
   original_name => <<"Incunabula-create-user.png">>,
   title => <<"Create User">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-308761-352597-2: PNG image data, 1384 x 418, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"create-book">>,
+  original_name => <<"Create book.png">>,
+  title => <<"Create Book">>}.
