@@ -1,0 +1,5 @@
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-307828-135674-1: PNG image data, 1756 x 1348, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"front-page">>,
+  original_name => <<"Incunabula-front-page.png">>,
+  title => <<"Front Page">>}.
