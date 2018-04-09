@@ -19,5 +19,5 @@ The menu will now change and add an `admin` button, click on it:
 Create the users of the site. If you are going to be an *author* or *reviewer* in your own right create an account for yourself here to use when doing that job. The *admin* sign-in should only be used for special administrative tasks:
 <img src='/books/the-first-incunabula-manual/images/create-user.png' alt='Create User'>
 
-You will notice that people are not created as *authors* or *reviewers*. An *author* is just someone who writes a book and a reviewer is just so
+You will notice that people are not created as *authors* or *reviewers*. An *author* is just someone who writes a book and a *reviewer* is just someone they ask to review a chapter. The *author* always owns their text - and the reviewer theirs. Once a review is complete the *author* can cherry pick the suggestions in it into their own text.
 
