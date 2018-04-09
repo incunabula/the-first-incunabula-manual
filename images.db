@@ -23,3 +23,8 @@
   image_slug => <<"the-book-homepage">>,
   original_name => <<"The Book.png">>,
   title => <<"The Book Homepage">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-309321-810714-1: PNG image data, 1420 x 1212, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"editing-a-chapter">>,
+  original_name => <<"Editing a chapter.png">>,
+  title => <<"Editing A Chapter">>}.
