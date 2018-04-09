@@ -21,3 +21,4 @@ Create the users of the site. If you are going to be an *author* or *reviewer* i
 
 You will notice that people are not created as *authors* or *reviewers*. An *author* is just someone who writes a book and a *reviewer* is just someone they ask to review a chapter. The *author* always owns their text - and the reviewer theirs. Once a review is complete the *author* can cherry pick the suggestions in it into their own text.
 
+You can't delete the admin users - but you can delete everyone else. Deleting a user doesn't delete their work whether it is a book, some 
