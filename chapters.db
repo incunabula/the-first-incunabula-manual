@@ -2,3 +2,4 @@
 #{chapter_slug => <<"what-is-incunabula-">>,
   chapter_title => <<"What is Incunabula?">>}.
 #{chapter_slug => <<"who-is-it-for-">>,chapter_title => <<"Who is it for?">>}.
+#{chapter_slug => <<"getting-started">>,chapter_title => <<"Getting started">>}.
