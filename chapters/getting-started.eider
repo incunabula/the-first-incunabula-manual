@@ -76,4 +76,6 @@ By default *Incunabula* comes with three types of special paragraphs:
 
 `todo` and `comment` are both filtered out before producing ebooks - so can be added freely by author and reviewer.
 
-`quote` add special formatting for use in quotes - and can be styled by your designer. If there are additional special formats needed new special paragraphs can be added, or html like 
+`quote` add special formatting for use in quotes - and can be styled by your designer. If there are additional special formats needed new special paragraphs can be made available.
+
+If things get particularly tricky simple your designer can add html like `<div>` and `<span>` where appropriate.
