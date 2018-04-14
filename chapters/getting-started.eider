@@ -67,3 +67,9 @@ Click on the help link in the editor to see all the things you can do, text form
 
 In addition there are special paragraphs:
 
+<img src='/books/the-first-incunabula-manual/images/special-paragraphs.png' alt='Special Paragraphs'>
+
+By default *Incunabula* comes with three types of special paragraphs:
+* todo
+* comment
+* quote
