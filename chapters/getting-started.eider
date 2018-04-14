@@ -70,6 +70,10 @@ In addition there are special paragraphs:
 <img src='/books/the-first-incunabula-manual/images/special-paragraphs.png' alt='Special Paragraphs'>
 
 By default *Incunabula* comes with three types of special paragraphs:
-* todo
-* comment
-* quote
+* `todo`
+* `comment`
+* `quote`
+
+`todo` and `comment` are both filtered out before producing ebooks - so can be added freely by author and reviewer.
+
+`quote` add special formatting for use in quotes - adn c
