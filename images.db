@@ -28,3 +28,8 @@
   image_slug => <<"editing-a-chapter">>,
   original_name => <<"Editing a chapter.png">>,
   title => <<"Editing A Chapter">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-712233-211252-2: PNG image data, 1756 x 1328, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"front-page-ii">>,
+  original_name => <<"Incunabula-front-page.png">>,
+  title => <<"Front Page II">>}.
