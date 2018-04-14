@@ -43,3 +43,8 @@
   image_slug => <<"markdown-ii">>,
   original_name => <<"Markdown II.png">>,
   title => <<"Markdown II">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-713203-284641-2: PNG image data, 1356 x 486, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"special-paragraphs">>,
+  original_name => <<"Special Paragraphs.png">>,
+  title => <<"Special Paragraphs">>}.
