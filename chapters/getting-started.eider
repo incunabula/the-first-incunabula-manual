@@ -124,8 +124,10 @@ Images have their own tab on your book page:
 Each image is displayed in an image card which contains four elements:
 * a thumbnail of the image
 * the name you gave the image (this will also be the alt-text that accessibility tools for blind readers and ebook-to-voice readers will use) - and the original name of the image file when you uploaded it
-* some techical details of the image
-* a link to
+* some technical details of the image
+* link text to copy'and'paste into your text in the editor
+
+
 
 
 
