@@ -88,4 +88,9 @@ The summary page simply replaces the paragaphs with their word count - but shows
 
 <img src='/books/the-first-incunabula-manual/images/summary-page.png' alt='Summary Page'>
 
-Down at the bottom of
+Down at the bottom of the page we see left-to-right:
+* a `save` button
+* details of the current saved version
+* a `delete` button
+
+The editor will auto-save every minute, but you can also manually save.
