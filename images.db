@@ -68,3 +68,8 @@
   image_slug => <<"chaff">>,
   original_name => <<"Chaff.png">>,
   title => <<"Chaff">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-803854-358466-1: PNG image data, 1380 x 360, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"chaff-tab">>,
+  original_name => <<"Chaff tab.png">>,
+  title => <<"Chaff Tab">>}.
