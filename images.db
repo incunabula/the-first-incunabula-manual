@@ -53,3 +53,8 @@
   image_slug => <<"summary-page">>,
   original_name => <<"Summary Page.png">>,
   title => <<"Summary Page">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-800298-588434-1: PNG image data, 1392 x 154, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"save-save-details-and-delete">>,
+  original_name => <<"Save, save details and delete.png">>,
+  title => <<"Save, save details and delete">>}.
