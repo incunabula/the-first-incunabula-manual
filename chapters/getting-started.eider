@@ -100,4 +100,5 @@ The editor will auto-save every minute, but you can also manually save.
 There are  couple of things to notice about the save message. It contains the following information:
 * a version number like `0.0.19.3`
 * a date - when the document was last saved
-* a description of the last save **upload new image** - the last save is the sav
+* a description of the last save **update chapter**
+
