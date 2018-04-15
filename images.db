@@ -58,3 +58,8 @@
   image_slug => <<"save-save-details-and-delete">>,
   original_name => <<"Save, save details and delete.png">>,
   title => <<"Save, save details and delete">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-801735-604435-2: PNG image data, 1430 x 994, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"images-tab">>,
+  original_name => <<"Images Tab.png">>,
+  title => <<"Images Tab">>}.
