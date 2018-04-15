@@ -105,6 +105,10 @@ There are  couple of things to notice about the save message. It contains the fo
 * who performed the last change - and in this case the fact that it was an **autosave** and not a manual change
 
 The version number has the following structure:
-* book edition '0'
-* book preview '0'
+* book edition `0`
+* book preview `0`
+* user save `19`
+* autosave `4`
+
+
 
