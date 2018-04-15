@@ -101,4 +101,6 @@ There are  couple of things to notice about the save message. It contains the fo
 * a version number like `0.0.19.3`
 * a date - when the document was last saved
 * a description of the last save **update chapter**
-* the thing saved - notice this seems to be repeated **Getting Started (getting-started)** the first part is the current name of the chapter - the second is its slug - how it appears in URLs
+* the thing saved - notice this seems to be repeated **Getting Started (getting-started)** the first part is the current name of the chapter - the second is its slug - how it appears in URLs. You can rename a chapter but the slug is set on the chapter creation. Slugs only have meaning during the production process - but they allow you to trace the history of a particular chapter
+* 
+
