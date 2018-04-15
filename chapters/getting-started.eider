@@ -84,6 +84,8 @@ Above the editor box there are a couple of other links:
 * a preview link to show you how the marked up page will look in your ebook
 * a summary page
 
-The summary page 
+The summary page simply replaces the paragaphs with their word count - but shows all headers, links, URL's for images and other things that you might want to check. It is designed as a *progress* page for your use:
 
 <img src='/books/the-first-incunabula-manual/images/summary-page.png' alt='Summary Page'>
+
+Down at the bottom of
