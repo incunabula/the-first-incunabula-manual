@@ -119,5 +119,10 @@ The `delete` button doesn't delete the chapter - it merely deletes it from the b
 ## Step 4 - Working With Images
 
 Images have their own tab on your book page:
+<img src='/books/the-first-incunabula-manual/images/images-tab.png' alt='Images Tab'>
+
+Each image is displayed in an image card which contains four elements:
+* a thumbnail of the image
+* the name you gave the image (this will also be the alt-text that 
 
 
