@@ -80,4 +80,7 @@ By default *Incunabula* comes with three types of special paragraphs:
 
 If things get particularly tricky simple your designer can add html like `<div>` and `<span>something</span>` where appropriate.
 
-Above the editor box we 
+Above the editor box there are a couple of other links:
+* a preview link to show you how the marked up page will look in your ebook
+* a summary page
+
