@@ -110,7 +110,9 @@ The version number has the following structure:
 * user save `19`
 * autosave `4`
 
+***Every*** version of your book is saved in its entirety.
+
 The version number is the basis for the searchable history of the book - and is printed on all summary and review pages - so when you find a bit of your book with some notes scribbled on it you can always work out which version it refers to.
 
-The `delete
+The `delete` button doesn't delete the chapter - it merely deletes it from the book. You can't restore a delet
 
