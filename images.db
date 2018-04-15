@@ -48,3 +48,8 @@
   image_slug => <<"special-paragraphs">>,
   original_name => <<"Special Paragraphs.png">>,
   title => <<"Special Paragraphs">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1523/multipart-800024-338775-2: PNG image data, 1662 x 1216, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"summary-page">>,
+  original_name => <<"Summary Page.png">>,
+  title => <<"Summary Page">>}.
