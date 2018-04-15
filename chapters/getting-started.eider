@@ -93,9 +93,11 @@ Down at the bottom of the page we see left-to-right:
 * details of the current saved version
 * a `delete` button
 
+<img src='/books/the-first-incunabula-manual/images/save-save-details-and-delete.png' alt='Save, save details and delete'>
+
 The editor will auto-save every minute, but you can also manually save.
 
 There are  couple of things to notice about the save message. It contains the following information:
 * a version number like `0.0.19.3`
-* a date
-* a description of the last save
+* a date - when the document was last saved
+* a description of the last save **upload new image** - the last save is the sav
