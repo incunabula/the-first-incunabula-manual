@@ -4,4 +4,8 @@ Reviews are key to Incunabula - the aim of they system to automate the productio
 
 Great books require great editing and reviewing - both of the structure of the book (and the arguments it makes) as well as line editing of copy for correctness, spelling and style.
 
-The way reviewing works in Incunabula is that the author can handover individual c
+The way reviewing works in Incunabula is that the author can handover individual chapters to reviewer.
+
+## Adding reviewers
+
+Anybody that the *admin* user has added to the system can be added as a review
