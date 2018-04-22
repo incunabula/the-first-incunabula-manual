@@ -1,3 +1,6 @@
 #{chaff_slug => <<"incunabula---why-you-should-use-it">>,
   chaff_title => <<"Incunabula - why you should use it">>,
   creation => <<"de novo at create new chaff - Incunabula - why you should use it - (incunabula---why-you-should-use-it) - by - gordon - ">>}.
+#{chaff_slug => <<"free-sample">>,
+  chaff_title => <<"Free sample">>,
+  creation => <<"free-sample copied from introduction at 0.0.25.0">>}.
