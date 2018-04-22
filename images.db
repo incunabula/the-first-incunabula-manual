@@ -78,3 +78,8 @@
   image_slug => <<"markdown-iii">>,
   original_name => <<"Markdown III.png">>,
   title => <<"Markdown III">>}.
+#{extension => <<".png">>,
+  image_details => "{<<\"/tmp/plug-1524/multipart-424386-554474-2: PNG image data, 1372 x 652, 8-bit/color RGBA, non-interlaced\\n\">>,\n 0}",
+  image_slug => <<"adding-reviewers">>,
+  original_name => <<"Adding Reviewers.png">>,
+  title => <<"Adding Reviewers">>}.
