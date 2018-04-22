@@ -12,7 +12,10 @@ The chaff tab is very similar to the chapter one:
 <img src='/books/the-first-incunabula-manual/images/chaff-tab.png' alt='Chaff Tab'>
 
 You can create a piece of chaff in two ways:
- *de novo* or make a copy of an existing chapter and edit. If you choose the copy it takes a snapshot of the current version of a chapter.
+* by writing original text *de novo* 
+* by making a copy of an existing chapter and editing it
+
+The copy is a shapshot of the chapter at the time the chaff was created and is note 
 
 Chaff has the same editor, previews and summary as a chapter.
 
