@@ -5,3 +5,4 @@
 #{chapter_slug => <<"getting-started">>,chapter_title => <<"Getting started">>}.
 #{chapter_slug => <<"chaff---what-is-it-and-what-s-it-for-">>,
   chapter_title => <<"Chaff - What Is It, And What's It For?">>}.
+#{chapter_slug => <<"reviews">>,chapter_title => <<"Reviews">>}.
